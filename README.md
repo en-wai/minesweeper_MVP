@@ -5,8 +5,11 @@ The purpose of this project is simply to demonstrate my understanding of Python 
 
 ### Prerequisites
 
-To run this app on your localhost you need to install [Flask](http://flask.pocoo.org/docs/0.12/installation/#installation).
-
+You can download and run this app on your preferred computer but I recommend the following to be installed:
+* Python
+* VirtualEnv
+* FLask
+  
 ![img](https://github.com/emanuelzaymus/MineSweeper/blob/master/readme_imgs/MineSweeper_prez01.jpg)![img](https://github.com/emanuelzaymus/MineSweeper/blob/master/readme_imgs/MineSweeper_prez02.jpg)
 ![img](https://github.com/emanuelzaymus/MineSweeper/blob/master/readme_imgs/MineSweeper_prez03.jpg)
 ![img](https://github.com/emanuelzaymus/MineSweeper/blob/master/readme_imgs/MineSweeper_prez04.jpg)
