@@ -1,6 +1,7 @@
 ## MineSweeper
 
-Mini web game Mine Sweeper well-known by MS Windows written in Python.
+Stripped down Mine Sweeper game written using Python and the Flask framework. 
+The purpose of this project is simply to demonstrate my understanding of Python programming and it fulfills the Foundation Project requirement of the ALX Software Engineering Project.
 
 ### Prerequisites
 
